@@ -1,0 +1,23 @@
+body {
+    background: url(images/bg.JPEG);
+}
+section {
+      min-height: 400px;
+    backdrop-color: #404749;
+    }
+    
+    Images {
+      backdrop-color: #7e989e;
+      backdrop-filter: #404749;
+    }
+    body {
+      background-color: lightblue;
+    }
+    p
+    p1 {
+      background-color: #00f2ff;
+      height: 3;
+    }
+   
+     background-color: #a1dba4;
+   }
